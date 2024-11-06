@@ -8,7 +8,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        yanmarRed: "#bd0017", // ヤンマーレッドのテーマカラーを追加
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
